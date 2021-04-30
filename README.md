@@ -3,13 +3,13 @@
 Bu projede bir e-ticaret web sitesinin sunduğu en temel özelliklerden biri olan sepete ürün eklemeyi en basit haliyle uygulayacağız.
 
 <p align="center">
-  <img src="shopping-cart.png" alt="Shopping Cart"/>
+  <img src="./public/assets/shopping-cart.gif" alt="Shopping Cart"/>
 </p>
 
 ### Proje Nasıl Çalıştırılır
 
-- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
-- Daha sonra "npm run start" komutu ile uygulama başlatılabilir.
+- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde `npm install` komutu ile gerekli paketlerin yüklenmesi gerekiyor.
+- Daha sonra `npm run start` komutu ile uygulama başlatılabilir.
 
 ### Proje Hakkında
 
